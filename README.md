@@ -45,3 +45,8 @@ The pre-requisites to running this notebook are:
 Note: You don't need to install sqlite3 module. It is included in the standard library (since Python 2.5)
 
 If you want to learn more about the capabilities of SQLite3 check out: https://docs.python.org/3/library/sqlite3.html
+
+## 3. Advanced SQL for Interview Question
+
+See: employee_salary_window_function_pyladies.sql <br>
+Use https://www.db-fiddle.com/ using the latest PostgreSQL version to answer the questions.
